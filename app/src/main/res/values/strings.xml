@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Click the Color</string>
+    <string name="red">RED</string>
+    <string name="yellow">YELLOW</string>
+    <string name="green">GREEN</string>
+    <string name="blue">BLUE</string>
+    <string name="pink">PINK</string>
+    <string name="black">BLACK</string>
+    <string name="gray">GRAY</string>
+    <string name="_0">0</string>
+    <string name="color">COLOR</string>
+    <string name="instructions">Choose the correct color or text based on the indicator. You\'ll have 30 seconds. Good luck!</string>
+    <string name="start">Start</string>
+    <string name="title">Click the Color</string>
+</resources>
