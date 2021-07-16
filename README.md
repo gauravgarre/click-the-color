@@ -3,7 +3,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About
 
-An Android game where users must select the correct color to increase their score. Built in Android Studio with Kotlin.
+A tricky Android game where users either select the color of the text or the color the text is referring to. Built in Android Studio with Kotlin.
 
 <!-- GETTING STARTED -->
 ## Getting Started
