@@ -17,9 +17,10 @@ You must have an Android device to run the app. Simply download the apk from the
 This demo video shows the app in action: https://youtu.be/yCUoCNZnsa8
 
 App screenshots are below:
-![screenshot](imgs/screen_1.png)
+<center>
 <img src="imgs/screen_1.png" alt="screenshot" width="50%" height="50%">
-
+<img src="imgs/screen_1.png" alt="screenshot" width="50%" height="50%">
+</center>
 <!-- CONTACT -->
 ## Contact
 
