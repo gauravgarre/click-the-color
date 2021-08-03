@@ -18,8 +18,9 @@ This demo video shows the app in action: https://youtu.be/yCUoCNZnsa8
 
 App screenshots are below:
 
+<p float="left">
 <img src="imgs/screen_1.png" alt="screenshot" width="25%" height="25%"><img src="imgs/screen_2.png" alt="screenshot" width="25%" height="25%"><img src="imgs/screen_3.png" alt="screenshot" width="25%" height="25%">
-
+</p>
 <!-- CONTACT -->
 ## Contact
 
