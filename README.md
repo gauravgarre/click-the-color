@@ -3,12 +3,12 @@
 <!-- ABOUT THE PROJECT -->
 ## About
 
-A tricky Android game where users either select the color of the text or the color the text is referring to. Built in Android Studio with Kotlin.
+A tricky Android game where users either select the color of the text or the color the text is referring to. Built in Android Studio with Kotlin and published on Google Play.
 
 <!-- GETTING STARTED -->
 ## Getting Started
 
-You must have an Android device to run the app. Simply download the apk from the releases and install.
+You must have an Android device to run the app. Simply search and install the app from the Google Play Store. Alternatively, download the latest apk release and install.
 
 
 <!-- USAGE EXAMPLES -->
@@ -25,3 +25,5 @@ App screenshots are below:
 Gaurav Garre: [gauravgarre@gmail.com](mailto:gauravgarre@gmail.com)
 
 Project Link: [https://github.com/gauravgarre/click-the-color](https://github.com/gauravgarre/click-the-color)
+
+Google Play: https://play.google.com/store/apps/details?id=com.gauravgarre.clickthecolor
